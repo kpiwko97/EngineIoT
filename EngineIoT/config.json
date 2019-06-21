@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "EngineIoTConnectionString": "Server=192.168.1.101;Database=SmartHouse;User ID=SA;Password=Kamciolo*1"
+  }
+}
