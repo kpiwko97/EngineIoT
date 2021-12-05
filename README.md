@@ -28,7 +28,7 @@ in EEPROM memory. The unique identification key GUID of the motor, winding resis
 and voltage in volts. At the bottom is a graph of temperature versus time in degrees Celsius.</br>
 
 <p align="center">
-<img alt="Credentials" src="https://user-images.githubusercontent.com/38471368/144746551-4fdb82f5-ba4c-4180-9457-da49b8f6e062.jpg" width="50%"  />
+<img alt="Credentials" src="https://user-images.githubusercontent.com/38471368/144757557-5b52f0c9-5acc-4878-83f2-261b420b4d81.png" />
 </p>
 
 
