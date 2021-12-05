@@ -27,6 +27,11 @@ The above picture shows a view of the running application. At the very top is th
 in EEPROM memory. The unique identification key GUID of the motor, winding resistance, number of windings, shaft diameter. On the right side there are two graphs: a meter, showing the current value of the rotational speed 
 and voltage in volts. At the bottom is a graph of temperature versus time in degrees Celsius.</br>
 
+<p align="center">
+<img alt="Credentials" src="https://user-images.githubusercontent.com/38471368/144746551-4fdb82f5-ba4c-4180-9457-da49b8f6e062.jpg" width="50%"  />
+</p>
+
+
 ### 🔔 Notifications:
 
 The implementation of the e-mail notifications module with the help of the IFTTT web-service is shown in the diagram. First, the e-mail address to which notifications will be sent was subscribed. Then, in the wizard, the service responsible for waiting for the event has been created.  The configuration is based on linking together two services: Webhook and Email 
